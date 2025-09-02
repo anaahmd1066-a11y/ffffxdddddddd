@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from "react";
 import { Moon, Sun } from "lucide-react";
 import { Header } from "./components/Header";
 import { MainPage } from "./components/MainPage";
-import { NavigationDropdown } from "./components/NavigationDropdown";
+import NavigationDropdown from "./components/NavigationDropdown";
 import { ExamSchedule } from "./components/ExamSchedule";
 import { NewsPage } from "./components/NewsPage";
 import { DonationSection } from "./components/DonationSection";
